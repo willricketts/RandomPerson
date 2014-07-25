@@ -3,6 +3,9 @@
 Generates a JSON document for a random user using the [RandomUser.me API](http://randomuser.me).
 
 ###Usage
+
+`npm install randomperson`
+
 ```
 var randomperson = require('randomperson');
 
