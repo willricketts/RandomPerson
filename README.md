@@ -4,7 +4,10 @@ Generates a JSON document for a random user using the [RandomUser.me API](http:/
 
 ###Usage
 
-`npm install randomperson`
+```
+npm install randomperson
+```
+
 
 ```
 var randomperson = require('randomperson');
