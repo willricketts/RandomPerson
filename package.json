@@ -1,0 +1,27 @@
+{
+  "name": "randomperson",
+  "version": "0.1.0",
+  "description": "Generates a random user JSON document",
+  "main": "randomperson.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/willricketts/RandomPerson"
+  },
+  "keywords": [
+    "random",
+    "user",
+    "generation"
+  ],
+  "author": "Will Ricketts",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/willricketts/RandomPerson/issues"
+  },
+  "homepage": "https://github.com/willricketts/RandomPerson",
+  "dependencies": {
+    "rest": "^1.1.1"
+  }
+}
