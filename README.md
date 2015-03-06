@@ -2,6 +2,8 @@
 
 Generates a JSON document for a random user using the [RandomUser.me API](http://randomuser.me).
 
+[![NPM](https://nodei.co/npm/randomperson.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/randomperson/)
+
 ###Usage
 
 ```
